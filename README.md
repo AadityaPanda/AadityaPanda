@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaditya Panda</h1>
-<h3 align="center">A passionate Python/App developer and IoT engineer from India.</h3>
+<h3 align="center">A passionate Python/Django developer and IoT engineer from India.</h3>
 
 - 🧑🏽‍🎓 I’m currently studying in [Raj Kumar Goel Institute of Technology.](https://rkgit.edu.in)
 
@@ -23,6 +23,7 @@
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uctqndf_jz1j20wdiwb3yxuq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uctqndf_jz1j20wdiwb3yxuq" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/aaditya_panda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/aaditya_panda" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/aadityapanda23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/aadityapanda23" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/aadityapanda23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/aadityapanda23" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/aadityapanda23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/aadityapanda23" height="30" width="40" /></a>
 <a href="https://discord.gg/5131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5131" height="30" width="40" /></a>
 </p>
