@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaditya Panda</h1>
-<h3 align="center">A passionate Python/App developer and IoT engineer from India.</h3>
+<h3 align="center">A passionate Python/Django developer and IoT engineer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aadityapanda&label=Profile%20views&color=0e75b6&style=flat" alt="aadityapanda" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadityapanda" alt="aadityapanda" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/aadityapanda23" target="blank"><img src="https://img.shields.io/twitter/follow/aadityapanda23?logo=twitter&style=for-the-badge" alt="aadityapanda23" /></a> </p>
-
-- 🧑🏽‍🎓 I’m currently studying at [Raj Kumar Goel Institute of Technology.](https://rkgit.edu.in)
+- 🧑🏽‍🎓 I’m currently studying in [Raj Kumar Goel Institute of Technology.](https://rkgit.edu.in)
 
 - 🌱 I’m currently learning **App Development, DSA.**
 
@@ -23,6 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/aadityapanda23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aadityapanda23" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aadityapanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aadityapanda" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20869606/aaditya-panda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20869606/aaditya-panda" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/aaditya.panda.23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/aaditya.panda.23" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/_aaditya_panda_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_aaditya_panda_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uctqndf_jz1j20wdiwb3yxuq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uctqndf_jz1j20wdiwb3yxuq" height="30" width="40" /></a>
