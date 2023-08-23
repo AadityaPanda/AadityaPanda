@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aaditya Panda</h1>
-<h3 align="center">A passionate Python/Django developer and IoT engineer from India.</h3>
+<h3 align="center">A passionate Python/App developer and IoT engineer from India.</h3>
 
-- 🧑🏽‍🎓 I’m currently studying in [Raj Kumar Goel Institute of Technology.](https://rkgit.edu.in)
+- 🧑🏽‍🎓 I’m currently studying at [Raj Kumar Goel Institute of Technology.](https://rkgit.edu.in)
 
 - 🌱 I’m currently learning **App Development, DSA.**
 
-- 🤝 I’m looking for **internship/job with a startup or early-stage company.**
+- 🤝 I’m looking for **an internship/job with a startup or early-stage company.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AadityaPanda?tab=repositories.](https://github.com/AadityaPanda?tab=repositories.)
 
