@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaditya Panda</h1>
 <h3 align="center">A passionate Python/App developer and IoT engineer from India.</h3>
 
-- 🧑🏽‍🎓 I’m currently studying at [Raj Kumar Goel Institute of Technology.](https://rkgit.edu.in)
+- 🧑🏽‍🎓 I’m a fresher from [Raj Kumar Goel Institute of Technology.](https://rkgit.edu.in)
 
 - 🌱 I’m currently learning **App Development, DSA.**
 
