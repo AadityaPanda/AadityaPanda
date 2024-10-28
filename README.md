@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑🏽‍🎓 I’m a fresher from Raj Kumar Goel Institute of Technology.<br>🌱 I’m currently learning App Development, DSA.<br>🤝 I’m looking for an internship/job with a startup or early-stage company.<br>👨‍💻 All of my projects are available at https://github.com/AadityaPanda?tab=repositories.<br>💬 Ask me about IoT, Python.<br>📫 How to reach me aadityapanda23@gmail.com, +919871722747.
+🧑🏽‍🎓 I’m a graduate from Raj Kumar Goel Institute of Technology.<br>🌱 I’m currently learning App Development, DSA.<br>🤝 I’m looking for an internship/job with a startup or early-stage company.<br>👨‍💻 All of my projects are available at https://github.com/AadityaPanda?tab=repositories.<br>💬 Ask me about IoT, Python.<br>📫 How to reach me aadityapanda23@gmail.com, +919871722747.
 
 
 ## 🌐 Socials:
