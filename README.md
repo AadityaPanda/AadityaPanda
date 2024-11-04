@@ -7,7 +7,7 @@ Hello there! 👋 I'm Aaditya Panda, a passionate B.Tech graduate majored in Com
 
 - 🌐 From Ghaziabad, Uttar Pradesh, India.
 - 📚 Currently exploring the digital realm and staying updated with the latest trends and technologies.
-- 📝 Highly eperienced in Embedded Systems Engineering.
+- 📝 Highly experienced in Embedded Systems Engineering.
 - 🤝 Looking for a job with a startup or early-stage company.
 - 🎓 Completed college at Raj Kumar Goel Institute of Technology, Ghaziabad.
 
