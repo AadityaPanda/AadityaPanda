@@ -29,13 +29,18 @@ Hello there! 👋 I'm Aaditya Panda, a passionate B.Tech graduate majored in Com
 - 👨‍💻 Aspiring for a career in computer science to make a positive impact on the world through technology.
 - 🌱 Eager to take on new challenges and continue the journey of learning and growth.
 
-## 🌐 Socials:
+## 🌐 Socials
 
 <a href="mailto:aadityapanda23@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> <a href="https://wa.me/9871722747" title="Whatsapp"><img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a> <a href="https://www.linkedin.com/in/aadityapanda/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>
 
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
+<!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AadityaPanda&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+-->
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadityaPanda&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/> 
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -44,4 +49,4 @@ Feel free to reach out if you have any questions or just want to chat about tech
 
 Happy coding! 🚀
 
-[![](https://visitcount.itsvg.in/api?id=AadityaPanda&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=AadityaPanda&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
