@@ -1,14 +1,14 @@
 ### Hi there 👋
 # Aaditya Panda
 
-Hello there! 👋 I'm Aaditya Panda, a passionate B.Tech graduate majored in Computer Science and Engineering (Internet of Things) currently looking for a full-time job in the role of Embedded Systems Engineering.
+Hello there! 👋 I'm Aaditya Panda, a passionate B.Tech graduate majored in Computer Science and Engineering (Internet of Things), currently working in Bitchief Technology Services Pvt Ltd as a Software Developer Trainee.
 
 ## About Me
 
 - 🌐 From Ghaziabad, Uttar Pradesh, India.
 - 📚 Currently exploring the digital realm and staying updated with the latest trends and technologies.
-- 📝 Highly experienced in Embedded Systems Engineering.
-- 🤝 Looking for a job with a startup or early-stage company.
+- 📝 Highly experienced in Software Development & Embedded Systems Engineering.
+- 🤝 Working in Bitchief Technology Services Pvt Ltd.
 - 🎓 Completed college at Raj Kumar Goel Institute of Technology, Ghaziabad.
 
 ## 💻 Tech Stack
@@ -33,13 +33,15 @@ Hello there! 👋 I'm Aaditya Panda, a passionate B.Tech graduate majored in Com
 
 <a href="mailto:aadityapanda23@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> <a href="https://wa.me/9871722747" title="Whatsapp"><img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a> <a href="https://www.linkedin.com/in/aadityapanda/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>
 
-
 ## 📊 GitHub Stats
-<!--
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AadityaPanda&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
--->
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadityaPanda&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/> 
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadityaPanda&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact"  width="40%"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/AadityaPanda?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=AadityaPanda&theme=highcontrast&show_icons=true&count_private=true&hide_border=false"  width="48%" alt="@AadityaPanda's github-readme-stats"/></a>
+<a href="https://github.com/AadityaPanda?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AadityaPanda&theme=highcontrast&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@AadityaPanda's github-readme-streak-stats"/></a>
 </p>
 
 ### ✍️ Random Dev Quote
