@@ -1,23 +1,23 @@
 ### Hi there 👋
 # Aaditya Panda
 
-Hello there! 👋 I'm Aaditya Panda, a passionate B.Tech graduate majored in Computer Science and Engineering (Internet of Things), currently working in Bitchief Technology Services Pvt Ltd as a Software Developer Trainee.
+Hello there! 👋 I'm Aaditya Panda, a passionate B.Tech graduate majored in Computer Science and Engineering (Internet of Things), currently working in Bitchief Technology Services Pvt Ltd as a Software Developer.
 
 ## About Me
 
 - 🌐 From Ghaziabad, Uttar Pradesh, India.
 - 📚 Currently exploring the digital realm and staying updated with the latest trends and technologies.
 - 📝 Highly experienced in Software Development & Embedded Systems Engineering.
-- 🤝 Working in Bitchief Technology Services Pvt Ltd.
+- 🤝 Working in Bitchief Technology Services Pvt Ltd as a Software Developer.
 - 🎓 Completed college at Raj Kumar Goel Institute of Technology, Ghaziabad.
 
 ## 💻 Tech Stack
 
-- 💻 Coding in C, C++ & Python
+- 💻 Coding in C, C++, Python, NodeJS/ExpressJS, ReactJS
 - 📊 Interested in Data Structures and Algorithms, Internet of Things
-- 🌐 Exploring Software Development
+- 🌐 Exploring AEM Development
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
 ## Academic Journey
 
