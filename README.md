@@ -1,7 +1,7 @@
-### Hi there 👋
-# Aaditya Panda
-
-Hello there! 👋 I'm Aaditya Panda, a passionate B.Tech graduate majored in Computer Science and Engineering (Internet of Things), currently working in Bitchief Technology Services Pvt Ltd as a Software Developer.
+<!-- Title Banner -->
+<p align="center">
+  <img src="_.gif" alt="Banner" width="800" />
+</p>
 
 ## About Me
 
