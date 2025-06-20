@@ -9,7 +9,6 @@
 - 📚 Currently exploring the digital realm and staying updated with the latest trends and technologies.
 - 📝 Highly experienced in Software Development & Embedded Systems Engineering.
 - 🤝 Working in Bitchief Technology Services Pvt Ltd as a Software Developer.
-- 🎓 Completed college at Raj Kumar Goel Institute of Technology, Ghaziabad.
 
 ## 💻 Tech Stack
 
@@ -22,11 +21,12 @@
 ## Academic Journey
 
 - 🏫 Pursued intermediate studies at Seth Anandram Jaipuria School, Vasundhara, Ghaziabad.
+- 🎓 Completed college at Raj Kumar Goel Institute of Technology, Ghaziabad.
 - 💻 Focus on leveraging practical knowledge and hands-on experience in Computer Science.
 
 ## Aspirations
 
-- 👨‍💻 Aspiring for a career in computer science to make a positive impact on the world through technology.
+- 👨‍💻 Aspiring for a career in Software Development Engineering to make a positive impact on the world through technology.
 - 🌱 Eager to take on new challenges and continue the journey of learning and growth.
 
 ## 🌐 Socials
