@@ -245,7 +245,7 @@ timeline
 
 ### 🐍 **Watch My Contributions Get Eaten by the Snake!**
 
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AadityaPanda/AadityaPanda/output/github-contribution-grid-snake.svg" />
+![Snake animation](https://github.com/AadityaPanda/AadityaPanda/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
@@ -257,6 +257,9 @@ timeline
 
 <br>
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=AadityaPanda&label=Profile%20Views&color=brightgreen&pretty=true)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=AadityaPanda&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/AadityaPanda?style=for-the-badge&logo=github&color=0969da)
+![GitHub User's stars](https://img.shields.io/github/stars/AadityaPanda?style=for-the-badge&logo=github&color=0969da)
+![GitHub repos](https://img.shields.io/badge/Total%20Repos-Dynamic-0969da?style=for-the-badge&logo=github)
 
 </div>
