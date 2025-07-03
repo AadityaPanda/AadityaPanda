@@ -177,7 +177,7 @@ timeline
   <a href="https://www.instagram.com/_aaditya_panda_/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://portfolio-git-main-aadityapandas-projects.vercel.app/" title="Portfolio">
+  <a href="https://aadityapanda.vercel.app/" title="Portfolio">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
@@ -197,7 +197,7 @@ timeline
   <a href="https://www.linkedin.com/in/aadityapanda/" title="LinkedIn" target="blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" height="50" width="50">
   </a>
-  <a href="https://portfolio-git-main-aadityapandas-projects.vercel.app/" title="Portfolio" target="blank">
+  <a href="https://aadityapanda.vercel.app/" title="Portfolio" target="blank">
     <img align="center" src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Portfolio" height="50" width="50">
   </a>
 </p>
