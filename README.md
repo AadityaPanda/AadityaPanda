@@ -123,11 +123,11 @@ motto: "Code. Create. Innovate. 🚀"
 timeline
     title My Educational Path
     section School
-        2019-2021 : Seth Anandram Jaipuria School
+        2018-2020 : Seth Anandram Jaipuria School
                   : Vasundhara, Ghaziabad
                   : Intermediate Studies
     section College  
-        2021-2025 : Raj Kumar Goel Institute of Technology
+        2020-2024 : Raj Kumar Goel Institute of Technology
                   : Ghaziabad
                   : Computer Science Engineering
     section Professional
