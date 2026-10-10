@@ -221,7 +221,7 @@ timeline
 
 ### 🏆 **GitHub Trophies**
 
-<img src="https://github-profile-trophy.vercel.app/?username=AadityaPanda&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4"/>
+<img src="https://github-trophies.vercel.app/?username=AadityaPanda&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4"/>
 
 </div>
 
@@ -229,7 +229,10 @@ timeline
 
 ### 📈 **Contribution Graph**
 
-<img alt="Aaditya's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AadityaPanda&bg_color=0d1117&color=00b4d8&line=00b4d8&point=0969da&area=true&hide_border=true"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AadityaPanda/github-readme/main/output/contribs-dark.svg">
+  <img alt="Aaditya's Contribution Graph" src="https://raw.githubusercontent.com/AadityaPanda/github-readme/main/output/contribs-light.svg">
+</picture>
 
 </div>
 
