@@ -1,268 +1,141 @@
-<!-- Title Banner -->
 <div align="center">
-  <img src="_.gif" alt="Banner" width="800" />
-  
+  <img src="_.gif" alt="Pixel-art developer at a retro desk" width="800" />
+
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Aaditya+Panda!;Software+Developer+🚀;IoT+Enthusiast+🌐;Problem+Solver+💡" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=FF4FD8&center=true&vCenter=true&width=640&height=60&lines=PRESS+START+🎮;PLAYER+1:+AADITYA+PANDA;CLASS:+SOFTWARE+DEVELOPER;SPECIAL:+IoT+%26+EMBEDDED+⚡;FUEL:+COFFEE+☕" alt="Press start, Player 1: Aaditya Panda" />
   </h1>
-  
+
   <img src="https://komarev.com/ghpvc/?username=AadityaPanda&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/AadityaPanda?label=Followers&style=social" alt="GitHub Followers" />
-  
+  <img src="https://img.shields.io/github/stars/AadityaPanda?label=Stars&style=social" alt="GitHub Stars" />
 </div>
 
 ---
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" />
+## 🕹️ Player Select
 
-## 🙋‍♂️ About Me
+<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding" />
 
-```yaml
-name: Aaditya Panda
-located_in: Ghaziabad, Uttar Pradesh, India
-current_job: Software Developer @ Bitchief Technology Services
-education: ["Raj Kumar Goel Institute of Technology"]
-interests: ["Software Development", "IoT", "Embedded Systems"]
-motto: "Code. Create. Innovate. 🚀"
+```cpp
+// player1.ino: runs forever, like any good Arduino sketch
+class AadityaPanda : public Player {
+  const char* base      = "Ghaziabad, Uttar Pradesh, India";
+  const char* job       = "Software Developer @ Bitchief Technology Services";
+  const char* training  = "Computer Science Engineering, RKGIT";
+  const char* perks[3]  = {"Software Development", "IoT", "Embedded Systems"};
+  const char* motto     = "Code. Create. Innovate. 🚀";
+
+public:
+  void loop() {
+    coffee >> code;            // fun fact: coffee in, code out
+    learn(); build(); ship();  // goal: a positive impact through tech
+  }
+};
 ```
 
-<div align="left">
-
-- 🌐 **From:** Ghaziabad, Uttar Pradesh, India
-- 💼 **Currently:** Software Developer at **Bitchief Technology Services Pvt Ltd**
-- 📚 **Learning:** Latest trends and technologies in the digital realm
-- 💻 **Expertise:** Software Development & Embedded Systems Engineering
-- 🎯 **Goal:** Making a positive impact through technology
-- ⚡ **Fun fact:** I turn coffee into code! ☕➡️💻
-
-</div>
-
 ---
 
-## 🛠️ My Tech Arsenal
+## 🍄 Power-Ups
 
 <div align="center">
 
-### 🔥 **Languages & Frameworks**
+**⭐ Code**
 
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" height="50" width="50">
-<br><strong>C</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" height="50" width="50">
-<br><strong>C++</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" height="50" width="50">
-<br><strong>Python</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" height="50" width="50">
-<br><strong>JavaScript</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" height="50" width="50">
-<br><strong>Node.js</strong>
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" height="50" width="50">
-<br><strong>React</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express.js" height="50" width="50">
-<br><strong>Express</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" height="50" width="50">
-<br><strong>HTML5</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" height="50" width="50">
-<br><strong>CSS3</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" height="50" width="50">
-<br><strong>MySQL</strong>
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,nodejs,react,express,html,css,mysql,cmake&perline=12&theme=dark" alt="C, C++, Python, JavaScript, TypeScript, Node.js, React, Express, HTML, CSS, MySQL, CMake" />
 
-### 🔧 **Hardware & IoT**
+**🔌 Circuits & Servers**
 
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" height="50" width="50">
-<br><strong>Arduino</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" alt="Raspberry Pi" height="50" width="50">
-<br><strong>Raspberry Pi</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nginx&theme=dark" alt="Nginx" height="50" width="50">
-<br><strong>Nginx</strong>
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,nginx&theme=dark" alt="Arduino, Raspberry Pi, Nginx" />
 
 </div>
 
 ---
 
-## 🎓 Academic Journey
+## 🗺️ World Map
 
 <div align="center">
 
 ```mermaid
 timeline
-    title My Educational Path
-    section School
+    title Save Points Unlocked
+    section World 1 · School
         2018-2020 : Seth Anandram Jaipuria School
                   : Vasundhara, Ghaziabad
                   : Intermediate Studies
-    section College  
+    section World 2 · College
         2020-2024 : Raj Kumar Goel Institute of Technology
                   : Ghaziabad
                   : Computer Science Engineering
-    section Professional
+    section World 3 · Work
         2024-Present : Software Developer
                      : Bitchief Technology Services
 ```
 
 </div>
 
-- 🏫 **High School:** Seth Anandram Jaipuria School, Vasundhara, Ghaziabad
-- 🎓 **College:** Raj Kumar Goel Institute of Technology, Ghaziabad
-- 💻 **Focus:** Practical knowledge and hands-on experience in Computer Science
-- 🚀 **Current Role:** Software Developer at Bitchief Technology Services
+---
+
+## 📜 Quest Log
+
+- [x] Clear World 2: graduate in Computer Science Engineering *(2024)*
+- [x] Unlock the job: Software Developer *(2024)*
+- [ ] Master full-stack development
+- [ ] Contribute to open source
+- [ ] Level up IoT & embedded expertise
+- [ ] Lead innovative tech projects
+- [ ] Become a tech entrepreneur 🚀
+
+> ♾️ **Side quests that never end:** keep learning · share knowledge with the community · stay curious
 
 ---
 
-## 🎯 Aspirations & Goals
+## 📊 Stats Screen
 
 <div align="center">
 
-| 🎯 **Short Term** | 🚀 **Long Term** | 💡 **Always** |
-|:---:|:---:|:---:|
-| Master Full-Stack Development | Lead innovative tech projects | Keep learning & growing |
-| Contribute to Open Source | Build impactful software solutions | Share knowledge with community |
-| Enhance IoT expertise | Become a tech entrepreneur | Stay curious about new technologies |
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AadityaPanda&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117" alt="Aaditya Panda github stats" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadityaPanda&layout=compact&hide_border=true&title_color=00b4d8&text_color=00b4d8&bg_color=0d1117" alt="Most used languages" />
 
-</div>
+### 🏆 Trophy Shelf
 
----
+<img src="https://github-trophies.vercel.app/?username=AadityaPanda&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 
-## 🌐 Connect With Me
-
-<div align="center">
-
-### 💬 **Let's Connect and Build Something Amazing Together!**
-
-<p align="center">
-  <a href="mailto:aadityapanda23@gmail.com" title="Email">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://wa.me/9871722747" title="WhatsApp">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aadityapanda/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/_aaditya_panda_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://aadityapanda.vercel.app/" title="Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
-### 📧 **Quick Contact Icons**
-
-<p align="center">
-  <a href="mailto:aadityapanda23@gmail.com" title="Email" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Gmail" height="50" width="50">
-  </a>
-  <a href="https://wa.me/9871722747" title="WhatsApp" target="blank">
-    <img align="center" src="https://pomf2.lain.la/f/v4npl8n1.png" alt="WhatsApp" height="50" width="50">
-  </a>
-  <a href="https://www.instagram.com/_aaditya_panda_/" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="_aaditya_panda_" height="50" width="50">
-  </a>
-  <a href="https://www.linkedin.com/in/aadityapanda/" title="LinkedIn" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" height="50" width="50">
-  </a>
-  <a href="https://aadityapanda.vercel.app/" title="Portfolio" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Portfolio" height="50" width="50">
-  </a>
-</p>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-### 🔥 **My Coding Stats**
-
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AadityaPanda&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117" alt="Aaditya Panda github stats" /> 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadityaPanda&layout=compact&hide_border=true&title_color=00b4d8&text_color=00b4d8&bg_color=0d1117" />
-
-</div>
-
-<div align="center">
-
-### 🏆 **GitHub Trophies**
-
-<img src="https://github-trophies.vercel.app/?username=AadityaPanda&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4"/>
-
-</div>
-
-<div align="center">
-
-### 📈 **Contribution Graph**
+### 🧱 Level Map
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AadityaPanda/github-readme/main/output/contribs-dark.svg">
   <img alt="Aaditya's Contribution Graph" src="https://raw.githubusercontent.com/AadityaPanda/github-readme/main/output/contribs-light.svg">
 </picture>
 
+### 🐍 Boss Fight: The Snake vs My Commits
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AadityaPanda/AadityaPanda/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/AadityaPanda/AadityaPanda/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
 
 ---
 
+## 💬 Multiplayer
+
 <div align="center">
 
-### ✍️ **Random Dev Quote**
+**Want to co-op? Pick a controller:**
+
+<a href="mailto:aadityapanda23@gmail.com" title="Email"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://wa.me/9871722747" title="WhatsApp"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<a href="https://www.linkedin.com/in/aadityapanda/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/_aaditya_panda_/" title="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://aadityapanda.vercel.app/" title="Portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+
+### 🧙 NPC Says…
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:FF4FD8&height=120&section=footer&text=Thanks%20for%20playing!&fontSize=28&fontColor=ffffff&fontAlignY=65" alt="Thanks for playing!" width="100%"/>
 
-### 🐍 **Watch My Contributions Get Eaten by the Snake!**
-
-![Snake animation](https://github.com/AadityaPanda/AadityaPanda/blob/output/github-contribution-grid-snake-dark.svg)
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
-### 💫 **"Code is like humor. When you have to explain it, it's bad."** - Cory House
-
-**Thanks for stopping by! Let's connect and build something amazing together! 🚀**
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=AadityaPanda&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/AadityaPanda?style=for-the-badge&logo=github&color=0969da)
-![GitHub User's stars](https://img.shields.io/github/stars/AadityaPanda?style=for-the-badge&logo=github&color=0969da)
-![GitHub repos](https://img.shields.io/badge/Total%20Repos-Dynamic-0969da?style=for-the-badge&logo=github)
+*"Code is like humor. When you have to explain it, it's bad."* · Cory House
 
 </div>
