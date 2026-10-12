@@ -60,20 +60,6 @@ timeline
 
 ---
 
-## 📜 Quest Log
-
-- [x] Clear World 2: graduate in Computer Science Engineering *(2024)*
-- [x] Unlock the job: Software Developer *(2024)*
-- [ ] Master full-stack development
-- [ ] Contribute to open source
-- [ ] Level up IoT & embedded expertise
-- [ ] Lead innovative tech projects
-- [ ] Become a tech entrepreneur 🚀
-
-> ♾️ **Side quests that never end:** keep learning · share knowledge with the community · stay curious
-
----
-
 ## 📊 Stats Screen
 
 <div align="center">
