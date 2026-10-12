@@ -14,24 +14,9 @@
 
 ## 🕹️ Player Select
 
-<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding" />
-
-```cpp
-// player1.ino: runs forever, like any good Arduino sketch
-class AadityaPanda : public Player {
-  const char* base      = "Ghaziabad, Uttar Pradesh, India";
-  const char* job       = "Software Developer @ Bitchief Technology Services";
-  const char* training  = "Computer Science Engineering, RKGIT";
-  const char* perks[3]  = {"Software Development", "IoT", "Embedded Systems"};
-  const char* motto     = "Code. Create. Innovate. 🚀";
-
-public:
-  void loop() {
-    coffee >> code;            // fun fact: coffee in, code out
-    learn(); build(); ship();  // goal: a positive impact through tech
-  }
-};
-```
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AadityaPanda/AadityaPanda/output/player.svg" width="100%" alt="Player card: Aaditya Panda, Software Developer at Bitchief Technology Services. Home: Ghaziabad, Uttar Pradesh, India. Academy: Computer Science Engineering at RKGIT, class of 2024. Skills: software development, IoT, embedded systems. Fuel: coffee. Motto: Code. Create. Innovate." />
+</div>
 
 ---
 
@@ -92,6 +77,12 @@ timeline
 ## 📊 Stats Screen
 
 <div align="center">
+
+### 🔥 High Scores
+
+<img src="https://raw.githubusercontent.com/AadityaPanda/AadityaPanda/output/streak.svg" width="100%" alt="GitHub contribution streak: total contributions, current streak and longest streak" />
+
+### 📈 Player Stats
 
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AadityaPanda&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117" alt="Aaditya Panda github stats" />
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadityaPanda&layout=compact&hide_border=true&title_color=00b4d8&text_color=00b4d8&bg_color=0d1117" alt="Most used languages" />

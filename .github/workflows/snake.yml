@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate profile SVGs
 
 # Controls when the action will run
 on:
@@ -33,8 +33,14 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      # Generates the retro player and streak cards
+      - name: Generate profile cards
+        run: node .github/cards.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       # Push the content of <build_dir> to the output branch
-      - name: Push github-contribution-grid-snake.svg to the output branch
+      - name: Push the SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
