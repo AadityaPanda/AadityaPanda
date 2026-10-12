@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=FF4FD8&center=true&vCenter=true&width=640&height=60&lines=PRESS+START+%F0%9F%8E%AE;PLAYER+1:+AADITYA+PANDA;CLASS:+SOFTWARE+DEVELOPER;SPECIAL:+IoT+%26+EMBEDDED+%E2%9A%A1;FUEL:+COFFEE+%E2%98%95" alt="Press start, Player 1: Aaditya Panda" />
   </h1>
 
-  <img src="https://komarev.com/ghpvc/?username=AadityaPanda&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AadityaPanda.AadityaPanda&left_text=Profile%20views&right_color=%230e75b6" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/AadityaPanda?label=Followers&style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/AadityaPanda?label=Stars&style=social" alt="GitHub Stars" />
 </div>
